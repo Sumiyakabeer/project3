@@ -1,0 +1,190 @@
+.logo1{
+    position: absolute;
+    bottom: 840px;
+
+}
+.logo2{
+    position: absolute;
+   right: 380px;
+}
+.logo3{
+    position: absolute;
+   right: 280px;
+}
+
+.head1{
+    font-size: 15px;
+    position: absolute;
+    right: 880px;
+}
+.head2{
+    font-size: 15px;
+    position: absolute;
+    right: 750px;
+
+}
+.head3{
+    font-size: 15px;
+    position: absolute;
+    right: 650px;
+
+}
+.head4{
+    font-size: 15px;
+    position: absolute;
+    right: 500px;
+
+}
+.img{
+    background-image:url('girl4.jpg') ;
+    background-size: cover;
+    height: 550px;
+}
+.p1{
+    color: rgb(2, 105, 25);
+    font-size: 50px;
+    text-align: center;
+  
+    bottom: 100px;
+
+}
+.p2{
+    color: rgb(26, 29, 28);
+    font-size: 50px;
+    text-align: center;
+
+}
+.p3{
+    color: rgb(22, 22, 22);
+    font-size: 50px;
+    text-align: center;
+
+}
+.p4{
+    text-align: center;
+    font-size:20px ;
+    color: rgb(39, 39, 39);
+}
+.logo4{
+    text-align: center;
+}
+
+.h1{
+    text-align: center;
+    color: black;
+}
+.para{
+    text-align: center;
+    color: black;
+}
+.img1{
+    text-align: center;
+}
+.img2{
+    text-align: center;
+}
+.img3{
+    text-align: center;
+}
+
+.image-text-container{
+    display: flex;
+    align-items: center;
+}
+.img-icon{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+
+}
+.pg{
+    font-size: 16px;
+}
+.blue{
+    color: rgb(18, 119, 145);
+    font-size: 20px;
+}
+.up{
+    color: rgb(18, 119, 145);
+    font-size: 20px;
+    float: left;
+    
+}
+.result{
+    text-align: center;
+    color: black;
+}
+.more{
+    text-align: center;
+    color: rgb(50, 116, 179);
+}
+.sec8{
+    background: linear-gradient(rgb(89, 131, 129),rgb(94, 92, 92));
+}
+.fresh{
+    text-align: center;
+    font-size: 50px;
+}
+.our{
+    text-align: center;
+}
+.press{
+    text-align: center;
+}
+.today{
+    text-align: center;
+}
+.an{
+    text-align: center;
+}
+.lil{
+    font-size: 10px;
+    text-align: center;
+}
+
+.le{
+    text-align: center;
+    transform:translateY(-120px);
+    display: block;
+    margin: auto;
+}
+.store{
+    text-align: center;
+}
+.sec10{
+    background-color: rgba(94, 91, 91, 0.762);
+   
+}
+.ours{
+    text-align: center;
+    color: white;
+}
+.t{
+    text-align: center;
+    color:rgb(14, 66, 144);
+}
+.go{
+    text-align: center;
+}
+.XX{
+    transform: translateY(-38px);
+}
+.gos{
+    text-align: center;
+    color: white;
+}
+.bills{
+    text-align: center;
+    font-size: 12px;
+}
+span{
+    color: blue;
+}
+.two{
+    text-align: center;
+    font-size: 12px;
+}
+.ftr{
+    text-align: center;
+    font-size: 12px;
+}
